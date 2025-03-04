@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre Mi:
 ¡Hola! 👋 Soy Luis<br>Soy un apasionado estudiante de Análisis y Desarrollo de Software de Colombia, con un enfoque en crear soluciones innovadoras y funcionales. 🚀<br><br>💻 Desarrollo proyectos en Java, JavaScript, HTML y CSS, siempre buscando mejorar mis habilidades y aprender nuevas tecnologías. Me encanta trabajar en proyectos prácticos, experimentar con código y construir aplicaciones que aporten valor.<br><br>🌍 Actualmente, estoy explorando el mundo del backend en Java, mientras perfecciono mis conocimientos en desarrollo web. <br>📌 En mi perfil encontrarás proyectos que reflejan mi crecimiento como desarrollador. ¡Siéntete libre de explorarlos y compartir ideas!
 
 
